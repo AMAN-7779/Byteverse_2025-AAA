@@ -503,7 +503,7 @@ import { Autocomplete, LoadScript } from "@react-google-maps/api";
 import axios from "axios";
 
 // ✅ Google Maps API Key
-const googleMapsApiKey = "AIzaSyAJnjDoWLO-BjXSJVRCrijOiiMo-8iAZW8";
+const googleMapsApiKey = ;
 
 function TrafficPredictionPage() {
   const [source, setSource] = useState("");
