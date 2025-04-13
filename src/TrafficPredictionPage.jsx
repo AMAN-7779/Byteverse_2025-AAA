@@ -394,7 +394,7 @@
 //             setTrafficData(trafficInfo);
 
 //             // Main map URL
-//             const baseMapUrl = `https://www.google.com/maps/embed/v1/directions?key=AIzaSyBO2W9PtOL2LWXgUAj0MieNLZa0rsVAFWg&origin=${encodeURIComponent(source)}&destination=${encodeURIComponent(destination)}&mode=driving`;
+//             const baseMapUrl = `https://www.google.com/maps/embed/v1/directions?key=&origin=${encodeURIComponent(source)}&destination=${encodeURIComponent(destination)}&mode=driving`;
 //             setMapUrl(baseMapUrl);
 
 //             // Alternative Routes (Dynamic structure ready — for now, static waypoints)
